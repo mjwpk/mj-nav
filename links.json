@@ -1,0 +1,50 @@
+{
+  "lastUpdated": "2026-02-28",
+  "categories": [
+    {
+      "name": "软件客户端",
+      "items": [
+        {
+          "name": "Windows 客户端",
+          "desc": "适用于 Windows 10/11 的安装包（第三方提供）。",
+          "platform": "Windows",
+          "tags": ["客户端", "安装包"],
+          "url": "https://example.com/windows-download",
+          "docUrl": "https://example.com/windows-doc",
+          "note": "如无法下载，请更换网络或联系对接人。"
+        },
+        {
+          "name": "macOS 客户端",
+          "desc": "适用于 macOS 的安装包（第三方提供）。",
+          "platform": "macOS",
+          "tags": ["客户端", "安装包"],
+          "url": "https://example.com/macos-download"
+        }
+      ]
+    },
+    {
+      "name": "驱动与插件",
+      "items": [
+        {
+          "name": "USB 驱动",
+          "desc": "用于设备连接的驱动程序。",
+          "platform": "Windows",
+          "tags": ["驱动", "USB"],
+          "url": "https://example.com/driver-download"
+        }
+      ]
+    },
+    {
+      "name": "文档资料",
+      "items": [
+        {
+          "name": "快速上手指南（PDF）",
+          "desc": "产品基础使用说明与常见问题。",
+          "platform": "通用",
+          "tags": ["文档", "教程"],
+          "url": "https://example.com/guide-pdf"
+        }
+      ]
+    }
+  ]
+}

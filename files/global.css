@@ -12,7 +12,7 @@ body {
 .head {
     height: 120px;
     background: #ffffff;
-    padding-left: 20px;
+    padding: 0 10px;
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
@@ -27,8 +27,15 @@ body {
     align-items: center;
 }
 
+.ban {
+    width: 620px;
+    margin: 0 auto;
+}
+
 .ban img {
     display: block;
+    width: 100%;
+    height: auto;
 }
 
 .newbox {

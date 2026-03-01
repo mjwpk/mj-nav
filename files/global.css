@@ -10,7 +10,7 @@ body {
 }
 
 .head {
-    height: 120px;
+    height: auto;
     background: #ffffff;
     padding: 0 10px;
     display: -webkit-box;
@@ -25,6 +25,17 @@ body {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
+}
+
+.head>a {
+    display: block;
+    width: 100%;
+}
+
+.head img {
+    width: 100%;
+    height: auto;
+    display: block;
 }
 
 .ban {
